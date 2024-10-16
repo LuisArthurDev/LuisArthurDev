@@ -15,6 +15,7 @@ Sou desenvolvedor em formação, apaixonado por tecnologia e programação. Esto
 ## 📫 Como me Encontrar
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/LuisArthurDev](https://github.com/LuisArthurDev)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [in/LuisArthur](https://www.linkedin.com/in/luisarthurrib)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) luisarthurofficial@gmail.com
 
 ## 🚀 Minhas Contribuições
 ![Contribuições](https://github-readme-stats.vercel.app/api?username=LuisArthurDev&show_icons=true&theme=radical)
