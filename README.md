@@ -1,6 +1,6 @@
 ## Olá, eu sou Luis Arthur! 👋
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e programação. Estou focado em *desenvolvimento FullStack* e sempre buscando aprender mais sobre *Backend, Frontend e Dados*.
+Sou desenvolvedor em formação, apaixonado por tecnologia e programação. Estou focado em *Desenvolvimento FullStack* e sempre buscando aprender mais sobre *Backend, Frontend e Dados*.
 
 ## 🛠 Tecnologias e Ferramentas
 - *Linguagens*: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
