@@ -3,7 +3,7 @@
 Sou desenvolvedor em formação, apaixonado por tecnologia e programação. Estou focado em *desenvolvimento FullStack* e sempre buscando aprender mais sobre *Backend, Frontend e Dados*.
 
 ## 🛠 Tecnologias e Ferramentas
-- *Linguagens*: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pawno](https://img.shields.io/badge/Pawno-ffcc00?style=flat)
+- *Linguagens*: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Pawno](https://img.shields.io/badge/Pawno-ffcc00?style=flat)
 - *Ferramentas*: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🌟 Projetos em Destaque
