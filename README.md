@@ -1,21 +1,43 @@
-## Olá, eu sou Luis Arthur! 👋
+# 👋 Olá! Eu sou o Luis Arthur
+Desenvolvedor em formação • Apaixonado por tecnologia • Sempre em busca de evolução
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e programação. Estou focado em *desenvolvimento FullStack* e sempre buscando aprender mais sobre *Backend, Frontend e Dados*.
+---
 
-## 🛠 Tecnologias e Ferramentas
-- *Linguagens*: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Pawno](https://img.shields.io/badge/Pawno-ffcc00?style=flat)
-- *Ferramentas*: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 🧠 Sobre mim
 
-## 🌟 Projetos em Destaque
-- Logo mais tem algo aqui! 😄
+- 💻 Estudando programação com foco em FullStack
+- 📚 Interessado em automação, produtividade e software open-source
+- 🚀 Em constante aprendizado e evolução pessoal
+- 🧘 Equilibrando rotina com foco, disciplina e organização
 
-## 📚 Atualmente Estudando
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) *Python* para desenvolvimento Backend
+---
 
-## 📫 Como me Encontrar
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/LuisArthurDev](https://github.com/LuisArthurDev)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [in/LuisArthur](https://www.linkedin.com/in/luisarthurrib)
-- ![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail) luisarthurofficial@gmail.com
+### 🛠️ Linguagens que Encontrara aqui
 
-## 🚀 Minhas Contribuições
-![Contribuições](https://github-readme-stats.vercel.app/api?username=LuisArthurDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuisArthurDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+---
+
+### 🌍 Projetos em Destaque
+
+*Em Desenvolvimento!*
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisarthurrib/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sorachaos)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarthurofficial@gmail.com)
+
+---
+
+Feito com ❤️ por Luis Arthur
