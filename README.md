@@ -19,6 +19,7 @@ Escrevi esse texto para que você, para que possa me conhecer um pouco melhor e 
 
 </br>
 </br>
+
 ---
 
 ### 📫 Contato
