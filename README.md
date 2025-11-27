@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Luis Arthur
-**`Desenvolvedor FullStack • Apaixonado por tecnologia • Sempre em busca de evolução`**
+**`Desenvolvedor FullStack`**
 
 ---
 
