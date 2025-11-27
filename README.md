@@ -9,8 +9,6 @@ Por volta de 2016, comecei a entrar no mundo da programação. Fiz alguns cursos
 
 Atualmente sigo estudando, buscando aprender cada vez mais e tentando entrar no mercado seja como freelancer ou em tempo integral. No meu tempo livre gosto de ler (inclusive livros sobre programação), jogar um pouco (no dia em que estou escrevendo esse texto estou zerando God of War 4) e também curto ver séries e filmes(no momento estou assistindo MobLand).
 
-Escrevi esse texto para que você, para que possa me conhecer um pouco melhor e entender minha história. Estou iniciando o curso de Engenharia de Software e sinto que finalmente encontrei a área certa pra mim. Mesmo assim, continuo estudando por fora, porque sei que se eu não correr atrás do aprendizado, ninguém vai fazer isso no meu lugar.
-
 ---
 
 ### 🛠️ Linguagens e Tecnologias
