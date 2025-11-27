@@ -1,36 +1,21 @@
 # 👋 Olá! Eu sou o Luis Arthur
-Desenvolvedor em formação • Apaixonado por tecnologia • Sempre em busca de evolução
+**`Desenvolvedor FullStack • Apaixonado por tecnologia • Sempre em busca de evolução`**
 
 ---
 
-### 🧠 Sobre mim
+Me chamo Luis Arthur. Tenho 25 anos e sou de Três Rios, RJ. Desde pequeno sempre fui muito curioso. Eu era aquele tipo de criança que queria entender tudo, e essa curiosidade acabou virando uma das minhas melhores qualidades, porque me fez aprender muita coisa por conta própria.
 
-- 💻 Estudando programação com foco em FullStack
-- 📚 Interessado em automação, produtividade e software open-source
-- 🚀 Em constante aprendizado e evolução pessoal
-- 🧘 Equilibrando rotina com foco, disciplina e organização
+Por volta de 2016, comecei a entrar no mundo da programação. Fiz alguns cursos profissionalizantes e, quanto mais eu estudava, mais eu me apaixonava pela área. Carrego até hoje uma frase que virou quase um lema pra mim: “Um programador pode fazer seu próprio mundo.” E eu realmente acho isso lindo.
 
----
+Atualmente sigo estudando, buscando aprender cada vez mais e tentando entrar no mercado seja como freelancer ou em tempo integral. No meu tempo livre gosto de ler (inclusive livros sobre programação), jogar um pouco (no dia em que estou escrevendo esse texto estou zerando God of War 4) e também curto ver séries e filmes(no momento estou assistindo MobLand).
 
-### 🛠️ Linguagens que Encontrara aqui
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisArthurDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Escrevi esse texto para que você, para que possa me conhecer um pouco melhor e entender minha história. Estou iniciando o curso de Engenharia de Software e sinto que finalmente encontrei a área certa pra mim. Mesmo assim, continuo estudando por fora, porque sei que se eu não correr atrás do aprendizado, ninguém vai fazer isso no meu lugar.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Pawn](https://img.shields.io/badge/PAWN-DB7100?style=for-the-badge&logoColor=white)
-
-
----
-
-### 🌍 Projetos em Destaque
-
-*Em Desenvolvimento!*
+### 🛠️ Linguagens e Tecnologias
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
 ---
 
